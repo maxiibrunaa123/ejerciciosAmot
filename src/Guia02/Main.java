@@ -1,7 +1,6 @@
-package Guia01;
+package Guia02;
 
-import static Guia01.Ejercicio08.ejercicio8;
-import static Guia01.Extras.Extra1.extra1;
+import static Guia02.Extras.Extra2.extra2;
 
 
 public class Main {
@@ -12,6 +11,6 @@ public class Main {
     //  ejercicio7();
     //  ejercicio8();
     //  extra1();
-
+        extra2();
     }
 }

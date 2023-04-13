@@ -1,6 +1,5 @@
-package Guia01.Extras;
+package Guia02.Extras;
 
-import java.util.Calendar;
 import java.util.Scanner;
 
 public class Extra1 {
